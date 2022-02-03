@@ -7,7 +7,7 @@ large chemically complex compounds. Over time they realise that the largest sub 
 in a complex compound that satisfies the above condition is the best choice to treat the
 disease caused by the virus.
 For example:
-If the complex chemical compound is ‘DGAABBAAKGHV’ the best drug would be ‘AABBAA’
+If the complex chemical compound is** ‘DGAABBAAKGHV’** the best drug would be **‘AABBAA’**
 Explanation:
 In the given complex chemical compound ‘DGAABBAAKGHV’ the following strings satisfy the
 condition of being read the same from front and back
